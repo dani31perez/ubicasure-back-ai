@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+service-account.json
+mobileclip2_b.ts
