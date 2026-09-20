@@ -7,3 +7,4 @@ torch
 httpx
 google-auth
 python-dotenv
+git+https://github.com/ultralytics/CLIP.git
